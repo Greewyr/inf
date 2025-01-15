@@ -1,86 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.16">
-  <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1509" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 YaBrowser/24.12.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Страница — 1" id="cKNN9OHwwLt2VD_pfud_">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-1" target="49OJdqSgxoaTRJc8bRFr-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-1" value="&lt;font face=&quot;Comfortaa&quot;&gt;Начало&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#D5E8D4;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-2" target="49OJdqSgxoaTRJc8bRFr-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-2" target="49OJdqSgxoaTRJc8bRFr-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="200" />
-              <mxPoint x="190" y="670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-2" value="i:=0..11" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#D5E8D4;shadow=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-3" target="49OJdqSgxoaTRJc8bRFr-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-3" target="49OJdqSgxoaTRJc8bRFr-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="310" y="320" />
-              <mxPoint x="310" y="260" />
-              <mxPoint x="600" y="260" />
-              <mxPoint x="600" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-3" value="j:=0..11" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#D5E8D4;shadow=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-4" target="49OJdqSgxoaTRJc8bRFr-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-4" value="Ввод mas[i,j]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#D5E8D4;shadow=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-5" target="49OJdqSgxoaTRJc8bRFr-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-5" target="49OJdqSgxoaTRJc8bRFr-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="340" y="530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-5" value="i&amp;lt;=j" style="rhombus;whiteSpace=wrap;html=1;gradientColor=#D5E8D4;shadow=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
-          <mxGeometry x="440" y="490" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-6" target="49OJdqSgxoaTRJc8bRFr-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="590" />
-              <mxPoint x="620" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-6" value="mas[i,j]=0" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#D5E8D4;shadow=1;glass=0;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49OJdqSgxoaTRJc8bRFr-7" target="49OJdqSgxoaTRJc8bRFr-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-7" value="Вывод mas[i,j]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#D5E8D4;shadow=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
-          <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="49OJdqSgxoaTRJc8bRFr-8" value="Конец" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#D5E8D4;shadow=1;fontFamily=Comfortaa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DComfortaa;" vertex="1" parent="1">
-          <mxGeometry x="440" y="730" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
